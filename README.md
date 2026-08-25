@@ -1,6 +1,6 @@
 # Joseph Manzambi
 
-**AI & Cloud Security Architect.** I founded and chair an enterprise AI Security Program across 400+ cloud accounts, and I publish the methods I use as open frameworks. Agentic AI red-teaming paired with governance that maps to real standards. Malaga, Spain. EN / FR / ES.
+**AI & Cloud Security Architect.** I founded and chair an enterprise AI Security Program, and I publish the methods I use as open frameworks. Agentic AI red-teaming paired with governance that maps to real standards. Malaga, Spain. EN / FR / ES.
 
 ## What I work on
 
