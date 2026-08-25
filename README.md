@@ -8,7 +8,7 @@
 - **AI governance engineers can actually run:** NIST AI RMF, ISO/IEC 42001, EU AI Act, CSA AICM, OWASP LLM and Agentic Top 10, MITRE ATLAS.
 - **Cloud security at scale:** multi-cloud (AWS, Azure, GCP), CNAPP, IAM at scale, landing zones, detection and incident response.
 
-## Open frameworks (start here)
+## Open frameworks
 
 - **[The Model Trust Gate](https://github.com/josephManzambi/model-trust-gate)** : "should we trust this model, for this use?" A 7-layer, fail-fast, auditable decision gate that composes NIST, ISO/IEC 42001, CSA AICM, OWASP, and MITRE ATLAS, and ends in a signed Model Trust Record.
 - **[EU AI Act Blueprint](https://github.com/josephManzambi/eu-ai-act-blueprint)** : 79 controls mapped across 6 frameworks, with a threat model and a live compliance tracker.
