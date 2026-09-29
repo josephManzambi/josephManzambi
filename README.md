@@ -14,8 +14,6 @@
 - **[EU AI Act Blueprint](https://github.com/josephManzambi/eu-ai-act-blueprint)**: 79 controls, 73 of them tied to a specific AI Act article and all mapped to NIST AI RMF and ISO/IEC 42001, with a threat model for a high-risk CV-screening system and a public [enforcement timeline](https://www.manzambi.com/tracker/). The runnable demo is planned, not built.
 - **[AI Red-Team Orchestrator](https://github.com/josephManzambi/ai-redteam-orchestrator)**: a three-layer red-team harness for LLMs and MCP servers that runs against local models (Promptfoo's OWASP preset needs a cloud login). v0.1.0 adds capability scoping: you declare what each MCP tool may reach, and it reports the gaps its rules check for between that declaration and what the server exposes. It checks tool descriptors, not runtime behaviour.
 
-How I apply them: **[manzambi.com/methods](https://www.manzambi.com/methods/)**.
-
 ## Writing
 
 Essays and deep-dives on AI security at **[manzambi.com/writing](https://www.manzambi.com/writing)**.
