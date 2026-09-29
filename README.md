@@ -22,4 +22,4 @@ Essays and deep-dives on AI security at **[manzambi.com/writing](https://www.man
 
 ## Reach me
 
-[manzambi.com](https://www.manzambi.com) · [LinkedIn](https://www.linkedin.com/in/joseph-m-a8b776132) · joseph@manzambi.com
+[manzambi.com](https://www.manzambi.com) · [LinkedIn](https://www.linkedin.com/in/josephmanzambi) · joseph@manzambi.com
